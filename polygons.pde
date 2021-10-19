@@ -29,8 +29,6 @@ PGraphics ActiveZone;
 
 int PolygonsCreated=0;
 
-int a = 500;
-
 void settings() {
   size(screenWidth, screenHeight, P2D);
 }
